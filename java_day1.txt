@@ -1,0 +1,66 @@
+Framework là gì?
+ +  là các đoạn code đã được viết sẵn, cấu thành nên một bộ khung và các thư viện lập trình được đóng gói. 
+ +Chúng cung cấp các tính năng có sẵn như mô hình, 
+API và các yếu tố khác để tối giản cho việc phát triển các ứng dụng web phong phú, năng động. 
+ +Các framework giống như là chúng ta có khung nhà được làm sẵn nền móng cơ bản, 
+bạn chỉ cần vào xây dựng và nội thất theo ý mình.
+
+Spring framework là gì?
+    + là một framework ứng dụng hay java platform mã nguồn mở cho nền tảng java
+   +  là một giải pháp khá gọn nhẹ với khả năng hỗ trợ các nhà phát triển có thể tạo ra và phát triển các ứng dụng web có mã hiệu suất cao. Hơn nữa là dễ dàng kiểm tra, thử nghiệm hay sử dụng lại code.
+
+Lợi ích khi sử dụng spring framework
+   +  được tổ chức theo kiểu module. Vì vậy, bạn chỉ cần quan tâm đến những gì bạn cần và những phần còn lại thì không cần quan tâm mặc dù số lượng các lớp và các gói khá nhiều.
+   + dễ dàng kiểm tra và thử nghiệm.
+   + Cung cấp API giúp thuận tiện trong việc dịch các ngoại lệ công nghệ cụ thể vào những trường hợp ngoại lệ nhất quán và không được kiểm soát.
+   +hạn chế bộ nhớ và tài nguyên của PC
+   +Spring framework được xây dựng theo mô hình MVC nên các tính năng thay thế các web framework khác đều được cung cấp đầy đủ.
+
+ Ngoài Spring thì Java còn có các framework nào khác
++JSF – JavaServer Faces : không  dễ sử dụng nhất, và cũng không phải là nhanh nhất. Tuy nhiên, lợi ích lớn là kho tài liệu tuyệt vời mà Oracle đã cung cấp.
++2. Struts 
+ Miễn phí và mã nguồn mở
+Code nhanh
+Dễ dàng kiểm tra code mới
++3. Hibernate 
+Ưu điểm:
+
+Rất mạnh
+Dễ dàng chuyển đổi dữ liệu cho nhiều database
+Tốc độ nhanh
+Dễ dàng chia tỷ lệ
+Dễ dàng cấu hình và sửa đổi
+Hạn chế:
+
+Khởi động lại chậm
+Dễ dàng để mất tất cả dữ liệu
+
+
+
+
++ Spring MVC
+Ưu điểm:
+
+Tài liệu tuyệt vời
+Cộng đồng cực kỳ đông đảo
+Bộ công cụ mở rộng cho bất kỳ dự án nào
+Cho phép bạn viết mã sạch và có thể truy cập
+Nhược điểm:
+
+Cần kiến thức vững về Java.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
